@@ -51,7 +51,7 @@ const About = () => {
         
         <div className="about-content">
           <div className="about-text">
-            <p>I'm a passionate Software Engineering student at ESPRIT, currently seeking a <strong>PFE opportunity</strong> for February-July 2025. I specialize in full-stack development, DevOps practices, and AI/ML integrations.</p>
+            <p>I'm a passionate Software Engineering student at ESPRIT, currently seeking a <strong>PFE opportunity</strong> for January-June 2025. I specialize in full-stack development, DevOps practices, and AI/ML integrations.</p>
             
             <p>My journey began at ESEN where I graduated as <strong>valedictorian</strong> with a Bachelor's in Business Computing. This unique background gives me both technical expertise and business understanding, allowing me to build solutions that are not just functional but also impactful.</p>
             
