@@ -49,7 +49,7 @@ const Hero = () => {
         <div className="hero-content">
           <div className="hero-badge">
             <span className="badge-dot"></span>
-            Seeking PFE Opportunity (Jan - Jun 2025)
+            Seeking PFE Opportunity (Jan - Jun 2026)
           </div>
           
           <h1 className="hero-title">
